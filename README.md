@@ -22,3 +22,5 @@
 [политех](http://pstu.ru/)
 
 [политех](http://pstu.ru/ "сайт ПНИПУ")
+
+![рисунок](http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2018-01/Depositphotos_6651515_l-2015.jpg?itok=hfROhdqH "вода")
